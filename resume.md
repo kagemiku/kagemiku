@@ -1,8 +1,9 @@
 # Name and Contact
 * Name: Akira Fukunaga
 * Residence: Tokyo, Japan
-* Email: kagemiku@gmail.com
+* Email: kagemiku `at` gmail.com
 * LinkedIn: https://www.linkedin.com/in/kagemiku/
+* Portfolio: https://kagemiku.dev/
 
 # Qualifications
 I have focused on iOS area for about 9 years, it started when I was a high school student.
@@ -10,9 +11,9 @@ I have not only iOS experiences, but also backend and web frontend experiences.
 Good at both conducting quick PoC and diving into huge source code.
 
 * Natural languages: Japanese (native), English (business level)
-* Focusing area: iOS, Swift, SwiftUI
+* Focusing area: iOS, Swift, SwiftUI, Software Architectures
 * Other skills: Firebase, Fastlane, Golang, CI/CD, Git, GitHub
-* Experienced rolls: Team Lead, Scrum Master
+* Experienced rolls: Architect, Team Lead, Scrum Master
 
 # Work Experiences
 ## Mercari, Inc (2018/08 ~ Present)
@@ -21,7 +22,7 @@ Good at both conducting quick PoC and diving into huge source code.
 * Implementing internal libraries, Feature Flag, Logging, etc
 * Working on tech experiments about SwiftUI and Combine
 * Leading iOS members and collaborating several teams
-* Interviewing students and mid-career candidates
+* Interviewing students and mid-career candidates (with English)
 
 ### Software Engineer (Tech Lead) - Fulltime (2019/10 ~ 2020/03)
 * Led and implemented search feature related to fashion items
@@ -37,7 +38,7 @@ Good at both conducting quick PoC and diving into huge source code.
 * Worked on overall UI changes for integrating financial functionality (Merpay)
 * Rearchtectured whole developer menu functionality
 
-## A company about traveling and hotel (2021/11 ~ Present)
+## A company about traveling and hotel (2021/11 ~ 2022/03)
 iOS Engineer - Subcontractor (\*Product is not published yet)
 * Conducting PoC about 3D object interactions
 * Working on iOS application with SwiftUI and Combine
