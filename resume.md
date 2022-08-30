@@ -16,8 +16,11 @@ Good at both conducting quick PoC and diving into huge source code.
 * Experienced rolls: Architect, Team Lead, Scrum Master
 
 # Work Experiences
-## Mercari, Inc (2018/08 ~ Present)
-### Software Engineer (Architect) - Fulltime (2020/04 ~ Present)
+## SmartNews, Inc. (2022/08 ~ Present)
+Senior Software Engineer (iOS)
+
+## Mercari, Inc. (2018/08 ~ 2022/08)
+### Software Engineer (Architect) - Fulltime (2020/04 ~ 2022/08)
 * Maintaining iOS project infrastructure, improving build time, updating iOS SDK and Xcode
 * Implementing internal libraries, Feature Flag, Logging, etc
 * Working on tech experiments about SwiftUI and Combine
@@ -33,20 +36,20 @@ Good at both conducting quick PoC and diving into huge source code.
 * Led and implemented new flow of registration sequence
 * Conducted several scrum events and improved team productivity
 
-### iOS Engineer - Internship (2018/08 ~ 2019/02)
+### Software Engineer Internship (2018/08 ~ 2019/02)
 * Rearchitectured our iOS app with MVVM and Flux Store
 * Worked on overall UI changes for integrating financial functionality (Merpay)
 * Rearchtectured whole developer menu functionality
 
 ## A company about traveling and hotel (2021/11 ~ 2022/03)
-iOS Engineer - Subcontractor (\*Product is not published yet)
+iOS App Developer - Subcontractor (\*Product is not published yet)
 * Conducting PoC about 3D object interactions
 * Working on iOS application with SwiftUI and Combine
 * The Comopsable Architecture is used as basic architecture
 
 
 ## A company about Japanese Sake (2020/5 ~ 2021/1)
-iOS Engineer - Subcontractor (\*Product is not published yet)
+iOS App Developer - Subcontractor (\*Product is not published yet)
 * Developed iOS Application with Swift and UIKit
 * Used PromiseKit framework for asynchorous processing
 * Only 2 iOS Engineers attended at that time, and I focued on business logic and UI implementations.
