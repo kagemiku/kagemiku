@@ -62,9 +62,9 @@ I'm good at both conducting quick PoCs and diving into huge codebases.
 * The Comopsable Architecture (a.k.a. TCA) was used as basic architecture
 
 
-## A company about Japanese Sake (2020/5 ~ 2021/1)
-### iOS App Developer - Subcontractor (\*Product is not published yet)
-* Developed iOS application with Swift and UIKit
+## Cland, Inc. - A company about Japanese Sake (2020/5 ~ 2021/1)
+### iOS App Developer - Subcontractor
+* Developed iOS application with Swift and UIKit (App: camo)
 * Used PromiseKit framework for asynchorous processing
 * Only 2 iOS Engineers attended at that time, and I focued on business logics and UI implementations.
 
